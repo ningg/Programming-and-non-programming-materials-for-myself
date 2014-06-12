@@ -26,8 +26,8 @@
 
 无意间看到[justjavac](https://github.com/justjavac)的文章[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)， 在这篇文章中，看到了stackoverflow上的两个讨论：
 
-* [What is the single most influential book every programmer should read? ](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read), [justjavac](https://github.com/justjavac) 翻译的中文版本[一个合格的程序员应该读过哪些书](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
-* [What non-programming books should programmers read? ](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read), [justjavac](https://github.com/justjavac) 翻译的中文版本[ 程序员应该阅读的非编程类书籍有哪些？](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/what-non-programming-books-should-programmers-read.md)
+> 1. [What is the single most influential book every programmer should read? ](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)， [justjavac](https://github.com/justjavac) 翻译了中文版本：[一个合格的程序员应该读过哪些书?](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
+> 2. [What non-programming books should programmers read? ](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read)， [justjavac](https://github.com/justjavac) 翻译了中文版本：[ 程序员应该阅读的非编程类书籍有哪些？](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/what-non-programming-books-should-programmers-read.md)
 
 与此同时，[justjavac](https://github.com/justjavac) 分享了一篇文章[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ，他的分享精神温暖人心，在此，表示敬意。
 
