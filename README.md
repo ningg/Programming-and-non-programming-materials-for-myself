@@ -19,9 +19,19 @@
 
 ##经济
 
+涵盖：货币政策
+
 * [中国人民银行年报2013](http://www.pbc.gov.cn/publish/chubanwu/4226/2014/20140611090133132494560/20140611090133132494560_.html) ：包含银行传统业务、新兴业务、热点问题，核心：货币；
 
+##思想意识
+
+涵盖：人的初衷
+
+* 书：《[道德情操论](http://book.douban.com/subject/1116367/)》
+
 ##几个技术博客
+
+涵盖：最新互联网趋势、当前使用的技术
 
 * [月光博客](http://www.williamlong.info/)
 * [酷壳](http://coolshell.cn/)
@@ -35,4 +45,29 @@
 * [前端工程精粹（二）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
 * [前端工程精粹（三）：本地调试与数据模拟](http://www.infoq.com/cn/articles/front-end-engineering-pristine-part3)
 * [前端开发体系建设日记](http://www.infoq.com/cn/articles/talk-front-end-integrated-solution-part2)
+
+##运维
+
+涵盖：linux基本操作、shell脚本
+
+##编程语言
+
+涵盖：java、python
+
+##操作系统
+
+* 书：《[深入理解计算机系统(原书第2版)](http://book.douban.com/subject/5333562/)》
+
+##搜索引擎
+* 书：《[开发自己的搜索引擎](http://book.douban.com/subject/4199509/)》
+
+##互联网产品相关
+
+（颜色搭配相关、UI设计、交互设计、需求分析）
+
+
+
+
+
+
 
