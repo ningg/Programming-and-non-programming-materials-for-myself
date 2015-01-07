@@ -128,8 +128,17 @@ java语言相关
 
 
 * [好的产品经理要至少具备这4个条件！](http://www.cyzone.cn/a/20141021/264553.html)
+* [脑洞大开！你应该知道的产品设计14招](http://www.uisdc.com/different-ways-product-design)
+* [互联网产品经理精选工作必读书](https://github.com/NAMEs/ProductManager)
+* [互联网产品 从设计到运营 这中间提高需要关注的网站](https://github.com/edagarli/resourcecollects)
+* [PM网址](http://blog.d8in.com/pm_web)
+* [PM书单](http://blog.d8in.com/pm_books)
 
-注：关注50个产品经理，熏陶一下。
+
+
+
+
+注：关注50个产品经理，熏陶一下。这些人的如何筛选？从有突出业绩的人中筛选，从写有影响力的书籍、文章的人之中来筛选。
 
 
 ##数据处理
@@ -152,19 +161,42 @@ java语言相关
 
 
 
-
+###信息源
 
 可以获取信息的来源：
 
 * [创业邦](http://www.cyzone.cn/)
 * [InfoQ](http://www.infoq.com/cn/)
 * [36Kr](http://www.36kr.com/)
-* [MaNong](http://weekly.manong.io/)
+* [MaNong](http://weekly.manong.io/) *（[MaNong Of Git](https://github.com/nemoTyrant/manong)）*
+* [弯曲评论](http://www.valleytalk.org/)
+* [湾区日报](http://wanqu.co/) *（[弯曲日报-推荐书单](http://wanqu.co/books)）*
+* [互联网产品 从设计到运营 这中间提高需要关注的网站](https://github.com/edagarli/resourcecollects)
 * [中国人民银行](http://www.pbc.gov.cn/) *（x报）*
 * [中国财政部](http://www.mof.gov.cn/index.htm) *（xx司）*
 * [百度大数据引擎](http://bigengine.baidu.com/) *（工具：热词；工具得趋势，细处需用心）*
-* [弯曲评论](http://www.valleytalk.org/)
-* [湾区日报](http://wanqu.co/) *（[弯曲日报-推荐书单](http://wanqu.co/books)）*
+
+###工具
+
+好工具节省重复劳动的时间，
+
+* visio：绘制基本图形
+* ppt：交流演示工具
+* mindmanager：梳理逻辑
+* markdown：缩减文档格式
+	* 会议纪要；*（疑问：本地能否直接查看Markdown文档？）*
+* vim：强大的文本编辑器
+* 产品原型开发工具 *（github上search）*
+	* mockups：产品线框图设计
+	* [PM工具](http://blog.d8in.com/pm_tools)
+* 程序开发工具
+	* Eclipse
+	* IntelliJ
+	* [位图转为矢量](http://vectormagic.stanford.edu/)
+	* [压缩CSS代码](http://www.cssdrive.com/index.php/main/csscompressor/)
+	* [压缩JS代码](http://www.codeandcoffee.com/2006/10/02/compress-your-javascript/)
 
 
+##健康和生活
 
+有时候腰酸背痛、生活无味，有时又很有趣，身体需要休息和锻炼，生活也需要发现美。
