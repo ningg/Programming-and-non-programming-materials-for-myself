@@ -118,16 +118,53 @@ java语言相关
 * 书：《[深入理解计算机系统(原书第2版)](http://book.douban.com/subject/5333562/)》
 
 ##搜索引擎
+
 * 书：《[开发自己的搜索引擎](http://book.douban.com/subject/4199509/)》
+* 
 
 ##互联网产品相关
 
 涵盖：颜色搭配相关、UI设计、交互设计、需求分析
 
+
+* [好的产品经理要至少具备这4个条件！](http://www.cyzone.cn/a/20141021/264553.html)
+
+注：关注50个产品经理，熏陶一下。
+
+
 ##数据处理
 
 涵盖：Hadoop数据平台（分布式存储、处理）
 
+
+
+##视野
+
+视野分为几点：
+
+* 共性特性：对企业运行所具有共性的东西有深入掌握，例如，信用、财务、资产评估、信用评估等；
+	* 经济金融
+	* 财务会计
+	* 数理统计
+	* 法律\政策
+* 特有属性：对某个行业有深度的洞察，例如，产品的特点、发展趋势、过往历史等；
+
+
+
+
+
+
+可以获取信息的来源：
+
+* [创业邦](http://www.cyzone.cn/)
+* [InfoQ](http://www.infoq.com/cn/)
+* [36Kr](http://www.36kr.com/)
+* [MaNong](http://weekly.manong.io/)
+* [中国人民银行](http://www.pbc.gov.cn/) *（x报）*
+* [中国财政部](http://www.mof.gov.cn/index.htm) *（xx司）*
+* [百度大数据引擎](http://bigengine.baidu.com/) *（工具：热词；工具得趋势，细处需用心）*
+* [弯曲评论](http://www.valleytalk.org/)
+* [湾区日报](http://wanqu.co/) *（[弯曲日报-推荐书单](http://wanqu.co/books)）*
 
 
 
