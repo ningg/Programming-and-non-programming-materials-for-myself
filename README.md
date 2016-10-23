@@ -18,6 +18,9 @@
 * [操作系统](#操作系统)
 * [搜索引擎](#搜索引擎)
 * [互联网产品相关](#互联网产品相关)
+* [其他](#其他)
+	* [小说](#小说)
+
 
 ## TODO LIST
 
@@ -205,6 +208,21 @@ java语言相关
 	* [压缩CSS代码](http://www.cssdrive.com/index.php/main/csscompressor/)
 	* [压缩JS代码](http://www.codeandcoffee.com/2006/10/02/compress-your-javascript/)
 
+	
+## 其他
+
+### 小说
+
+葱叔系列：
+
+* [大人物，小人物——小刀系列番外](/others/2016-10-12-congshu-fanwai-01.md)
+* [奋斗--小刀系列--番外篇《艳.羽》上](/others/2016-10-12-congshu-fanwai-yanyu-before.md)
+* [你有何资格做领导？](/others/2016-10-12-congshu-be-a-leader.md)
+* [《奋斗——小刀系列》之第三季《磨刀》第一集《命运的转折》](/others/2016-10-12-congshu-series-3-modao-life.md)
+* [政治没有善和恶](/others/2016-10-12-congshu-zhengzhi-no-good-or-bad.md)
+* [办公室政治初级攻略](/others/2016-10-12-congshu-zhengzhi-of-office.md)
+* [一个合格的堂主](/others/2016-10-12-congshu-be-a-middle-leader.md)
+* [追求卓越，成功不期而至](/others/2016-10-12-congshu-for-freshman-to-be-better.md)
 
 ## 健康和生活
 
